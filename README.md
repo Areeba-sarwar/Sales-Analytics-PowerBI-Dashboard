@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="" width="700" alt="Sales Dashboard Insights">
+  <img src="https://github.com/Areeba-sarwar/Sales-Analytics-PowerBI-Dashboard/blob/main/Budget%20%26%20Revenue.PNG" width="700" alt="Sales Dashboard Insights">
 </p>
 
 <p align="center">
