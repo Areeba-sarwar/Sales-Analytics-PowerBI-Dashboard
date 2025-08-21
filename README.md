@@ -1,2 +1,10 @@
 # Sales-Analytics-PowerBI-Dashboard
-📊 Interactive Sales Analytics Dashboard built with Power BI to analyze revenue trends, top-performing products, regional performance, and customer insights—helping businesses track KPIs and make data-driven decisions.
+## 📊 Dashboard Preview  
+
+<p align="center">
+  <img src="" width="700" alt="Sales Dashboard Overview">
+</p>
+
+<p align="center">
+  <img src="assets/sales_insights.png" width="700" alt="Sales Dashboard Insights">
+</p>
